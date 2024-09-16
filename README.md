@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sara-mohamd/Leetcode/tree/master/0392-is-subsequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sara-mohamd/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
