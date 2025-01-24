@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sara-mohamd/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -13,12 +14,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sara-mohamd/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sara-mohamd/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sara-mohamd/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -54,4 +57,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
