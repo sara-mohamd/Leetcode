@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sara-mohamd/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/sara-mohamd/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sara-mohamd/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -46,5 +48,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
