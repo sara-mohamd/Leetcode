@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sara-mohamd/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sara-mohamd/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sara-mohamd/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sara-mohamd/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sara-mohamd/Leetcode/tree/master/0242-valid-anagram) |
@@ -21,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sara-mohamd/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sara-mohamd/Leetcode/tree/master/0242-valid-anagram) |
@@ -28,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sara-mohamd/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sara-mohamd/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sara-mohamd/Leetcode/tree/master/0392-is-subsequence) |
 ## Simulation
