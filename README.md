@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sara-mohamd/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
