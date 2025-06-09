@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/sara-mohamd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2058-concatenation-of-array](https://github.com/sara-mohamd/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sara-mohamd/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/sara-mohamd/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +77,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sara-mohamd/Leetcode/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sara-mohamd/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sara-mohamd/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
