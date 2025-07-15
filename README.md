@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sara-mohamd/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sara-mohamd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/sara-mohamd/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/sara-mohamd/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sara-mohamd/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/sara-mohamd/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sara-mohamd/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sara-mohamd/Leetcode/tree/master/0242-valid-anagram) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sara-mohamd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/sara-mohamd/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sara-mohamd/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sara-mohamd/Leetcode/tree/master/0344-reverse-string) |
