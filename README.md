@@ -83,6 +83,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sara-mohamd/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/sara-mohamd/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/sara-mohamd/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sara-mohamd/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sara-mohamd/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
