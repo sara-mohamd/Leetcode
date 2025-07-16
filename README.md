@@ -16,6 +16,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/sara-mohamd/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0792-binary-search](https://github.com/sara-mohamd/Leetcode/tree/master/0792-binary-search) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sara-mohamd/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2058-concatenation-of-array](https://github.com/sara-mohamd/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -80,6 +81,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sara-mohamd/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/sara-mohamd/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
