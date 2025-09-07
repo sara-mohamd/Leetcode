@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sara-mohamd/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sara-mohamd/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sara-mohamd/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sara-mohamd/Leetcode/tree/master/0242-valid-anagram) |
@@ -107,6 +108,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sara-mohamd/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/sara-mohamd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sara-mohamd/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
