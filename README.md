@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/sara-mohamd/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sara-mohamd/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/sara-mohamd/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sara-mohamd/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/sara-mohamd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/sara-mohamd/Leetcode/tree/master/0792-binary-search) |
@@ -135,4 +136,9 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sara-mohamd/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/sara-mohamd/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sara-mohamd/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
