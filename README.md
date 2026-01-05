@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/sara-mohamd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/sara-mohamd/Leetcode/tree/master/0792-binary-search) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sara-mohamd/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sara-mohamd/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/sara-mohamd/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@
 | [0344-reverse-string](https://github.com/sara-mohamd/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sara-mohamd/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/sara-mohamd/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sara-mohamd/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/sara-mohamd/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
