@@ -56,6 +56,7 @@
 | [0344-reverse-string](https://github.com/sara-mohamd/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sara-mohamd/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/sara-mohamd/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1360-number-of-days-between-two-dates](https://github.com/sara-mohamd/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sara-mohamd/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/sara-mohamd/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Simulation
@@ -113,6 +114,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sara-mohamd/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sara-mohamd/Leetcode/tree/master/0231-power-of-two) |
+| [1360-number-of-days-between-two-dates](https://github.com/sara-mohamd/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Stack
 |  |
 | ------- |
