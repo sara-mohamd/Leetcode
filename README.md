@@ -98,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sara-mohamd/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sara-mohamd/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sara-mohamd/Leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sara-mohamd/Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/sara-mohamd/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sara-mohamd/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
