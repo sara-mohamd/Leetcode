@@ -24,6 +24,7 @@
 | [0792-binary-search](https://github.com/sara-mohamd/Leetcode/tree/master/0792-binary-search) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sara-mohamd/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sara-mohamd/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1991-find-the-middle-index-in-array](https://github.com/sara-mohamd/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2058-concatenation-of-array](https://github.com/sara-mohamd/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sara-mohamd/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sara-mohamd/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sara-mohamd/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1991-find-the-middle-index-in-array](https://github.com/sara-mohamd/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Design
 |  |
 | ------- |
